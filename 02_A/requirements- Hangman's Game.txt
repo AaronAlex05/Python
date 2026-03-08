@@ -1,0 +1,7 @@
+List of Libraries used in the Hangman's Game
+• BreezyPyGUI
+• Tkinter
+• Pygame
+• PIL (Pillow)
+• Random
+• OS
